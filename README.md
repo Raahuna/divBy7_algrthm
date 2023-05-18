@@ -14,7 +14,7 @@
 
 ## ❓ | Nasıl kullanılır?
 
-**100'den büyük ama çokta büyük olmayan bir sayıyı girin ve gerisini algoritmaya bırakın ( %99.9 çalışıyor ), Kodu çalıştıramıyorsan [Python](https://www.python.org/downloads/)'u indirmeyi deneyebilirsin, veya [Python Complier]() üzerinden test edebilirsin!**
+**100'den büyük ama çokta büyük olmayan bir sayıyı girin ve gerisini algoritmaya bırakın ( %99.9 çalışıyor ), Kodu çalıştıramıyorsan [Python](https://www.python.org/downloads/)'u indirmeyi deneyebilirsin!**
 
 Adım 1: X sayısının son hanesini al.
 Adım 2: Alınan son haneyi 5 ile çarp.
@@ -36,5 +36,4 @@ Eğer: Çıktının basamak sayısı 2'den fazlaysa...
 
 <div align="center">
   <h3><a href="https://github.com/Raahuna/divBy7_algrthm/archive/refs/heads/main.zip">📥 Dosyayı İndir.</a></h3>
-  <h3><a href="https://Ultimate-Music-Player-2000.raahuna.repl.co">🌐 Sitede görüntüle.</a></h3>
 </div>
